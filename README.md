@@ -5,7 +5,7 @@ Artistic Banana is an HTML canvas drawing game by **minechicken98.**
 
 The original code is at [minechicken98/funny](https://github.com/minechicken98/funny)
 
-Most of the source coded was written by the computer but I wrote some code and tweaked things
+Most of the source code was written by the computer but I wrote some code and tweaked things
 
 # Improvements from the original
 - Colors
@@ -24,7 +24,9 @@ Most of the source coded was written by the computer but I wrote some code and t
     - Actions renamed to canvas utilities
     - Clear renamed to Clear Canvas
     - Save renamed to Save as PNG
+    - artistic-banana-artwork renamed to artistic-banana-drawing (with random number at the end)
   - Tip updated to include tap to signify touchscreen support
   - Create your masterpiece renamed to I'm a goofy goober
   - Hex code list with color descriptions
-  - Small CSS updates and   more padding for the body
+  - Small CSS updates and more padding for the body
+  - All instances of artwork have been changed to drawing
